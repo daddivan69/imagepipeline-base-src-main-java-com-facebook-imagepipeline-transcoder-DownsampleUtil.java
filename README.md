@@ -1,0 +1,1 @@
+# imagepipeline-base-src-main-java-com-facebook-imagepipeline-transcoder-DownsampleUtil.java
